@@ -47,7 +47,7 @@
       <div>
         <img
           class="z-0 absolute top-0 right-1 lg:h-[900px] lg:w-auto w-72 h-[22rem]"
-          src="/Users/santi/code/figma/public/images/designer.png"
+          src="@/public/images/designer.png"
           alt=""
         />
       </div>
@@ -120,17 +120,19 @@
         </div>
       </div>
       <div class="flex" style="height: 524px">
-        <img
-          src="/Users/santi/code/figma/public/images/intro0.png"
-          alt=""
-          class="max-h-fit"
-        />
+        <img src="@/public/images/intro0.png" alt="" class="max-h-fit" />
       </div>
     </div>
     <!-- Intro1 -->
-    <Intro titulo="Light, Fast & Powerfull" imagen="images/intro1.png"></Intro>
+    <Intro
+      titulo="Light, Fast & Powerfull"
+      imagen="@/public/images/intro1.png"
+    ></Intro>
     <!-- Intro2 -->
-    <Intro titulo="Light, Fast & Powerfull" imagen="images/intro2.png"></Intro>
+    <Intro
+      titulo="Light, Fast & Powerfull"
+      imagen="@/public/images/intro2.png"
+    ></Intro>
     <!-- Intro3 -->
     <Intro
       titulo="Light, Fast & Powerfull"
