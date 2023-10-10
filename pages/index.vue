@@ -47,7 +47,7 @@
       <div>
         <img
           class="z-0 absolute top-0 right-1 lg:h-[900px] lg:w-auto w-72 h-[22rem]"
-          src="images/designer.png"
+          src="/Users/santi/code/figma/public/images/designer.png"
           alt=""
         />
       </div>
@@ -120,7 +120,11 @@
         </div>
       </div>
       <div class="flex" style="height: 524px">
-        <img src="images/intro0.png" alt="" class="max-h-fit" />
+        <img
+          src="/Users/santi/code/figma/public/images/intro0.png"
+          alt=""
+          class="max-h-fit"
+        />
       </div>
     </div>
     <!-- Intro1 -->
