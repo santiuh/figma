@@ -124,15 +124,9 @@
       </div>
     </div>
     <!-- Intro1 -->
-    <Intro
-      titulo="Light, Fast & Powerfull"
-      imagen="@/public/images/intro1.png"
-    ></Intro>
+    <Intro titulo="Light, Fast & Powerfull" imagen="images/intro1.png"></Intro>
     <!-- Intro2 -->
-    <Intro
-      titulo="Light, Fast & Powerfull"
-      imagen="@/public/images/intro2.png"
-    ></Intro>
+    <Intro titulo="Light, Fast & Powerfull" imagen="images/intro2.png"></Intro>
     <!-- Intro3 -->
     <Intro
       titulo="Light, Fast & Powerfull"
